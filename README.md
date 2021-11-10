@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saksham2303.
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me (sakshambairathi@gmail.com)
 
