@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Big Data**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Spark, AWS**
 
 - 💬 Ask me about **NLP, Reactjs, Nodejs, Python, Java, HTML, CSS**
 
