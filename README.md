@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham2303" alt="saksham2303" /></a> </p>
 
-- 🔭 I’m currently working on **Sign Language Detection**
+- 🔭 I’m currently working on **Big Data**
 
 - 🌱 I’m currently learning **NLP**
 
